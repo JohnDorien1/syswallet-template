@@ -1,8 +1,4 @@
-# Syscoin wallet generated template [![Build Status](https://secure.travis-ci.org/yeoman/generator-angular.svg?branch=master)](http://travis-ci.org/yeoman/generator-angular)
-
-> Yeoman generator for AngularJS - lets you quickly set up a project with sensible defaults and best practices.
-
-[Roadmap for upcoming plans/features/fixes](https://github.com/yeoman/generator-angular/issues/553)
+# Syscoin wallet generated template 
 
 ## Usage
 
@@ -10,19 +6,21 @@ Install `generator-angular`:
 ```
 npm install -g generator-angular
 ```
+Clone this repository and do the following:
 
-Make a new directory, and `cd` into it:
+Install `install npm dependencies`:
 ```
-mkdir my-new-project && cd $_
+npm install
+```
+Install `install bower dependencies`:
+```
+bower install
 ```
 
-Run `yo angular`, optionally passing an app name:
-```
-yo angular [app-name]
-```
 
-Run `grunt` for building and `grunt serve` for preview
-
+```
+`grunt` for building and `grunt serve` for preview
+```
 
 ## Generators
 
