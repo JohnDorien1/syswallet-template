@@ -8,11 +8,12 @@ npm install -g generator-angular
 ```
 Clone this repository and do the following:
 
-Install `install npm dependencies`:
+Install `npm dependencies`:
 ```
 npm install
 ```
-Install `install bower dependencies`:
+
+Install `bower dependencies`:
 ```
 bower install
 ```
